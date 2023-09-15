@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://maximiranda.github.io/slingrDoc/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
