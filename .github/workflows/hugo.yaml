@@ -51,8 +51,7 @@ jobs:
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: "Echo environment variables"
-        run: "[[ echo baseurl ${{ steps.pages.outputs.base_url }}/ oageurl ${{ steps.deployment.outputs.page_url }} ]]""
-        ]]
+        run: "[[ echo baseurl ${{ steps.pages.outputs.base_url }}/ oageurl ${{ steps.deployment.outputs.page_url }} ]]"
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
