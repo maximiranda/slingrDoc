@@ -58,7 +58,8 @@ jobs:
         run: |
           hugo \
             --gc \
-            --minify \         
+            --minify \
+            --baseURL "https://maximiranda.github.io/slingrDoc/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
