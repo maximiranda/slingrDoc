@@ -69,7 +69,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://maximiranda.github.io/slingrDoc/
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
     steps:
