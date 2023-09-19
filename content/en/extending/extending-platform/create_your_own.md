@@ -37,7 +37,7 @@ guides depending on your programming language preference:
 In order to develop and test your own endpoints, there is one special endpoint that will help you on that task 
 called the `Proxy endpoint`:
 
-![Endpoint proxy](https://maximiranda.github.io/slingrDoc/images/vendor/extending/endpoint-proxy.png)
+![Endpoint proxy](/images/vendor/extending/endpoint-proxy.png)
 
 When you create a new endpoint in the app builder you will see the `Proxy endpoint` in the list of
 available endpoints. This is an special endpoint that will proxy the one running on your local

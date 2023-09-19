@@ -29,7 +29,7 @@ people can start using. From there you can keep adding more features and change 
 
 The cycle would look like this:
 
-![App metadata and environments](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/development-process1.png)
+![App metadata and environments](/images/vendor/platform-ref/development-process1.png)
 
 1. **Model your entities**: capture the most important things from your domain and model them into
   entities. At this point it is probably good to just define the structure of fields and a few

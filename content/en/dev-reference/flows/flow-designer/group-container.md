@@ -14,7 +14,7 @@ weight: 81
 
 Some steps in the flow designer are also **group containers**. This means that they are capable of holding nested steps inside them. You can easily identify group container steps by dragging them from the palette and dropping them into the canvas. Once they have been dropped within the canvas you will notice this type of steps are wider and taller than regular steps, and also have a “Dropped steps here” message in the center. You can drag and drop other steps from the palette as well as the canvas inside a group container step. Once you drop a step into a group, that dropped step is now part of that group and a **linked icon** will appear on both, parent and child steps. This will create a sub context and the flow execution will continue with the steps inside the group container before moving on to the next step connected to the group container. This mean that you can drop several steps inside a container and connect them with each other. The first step to be executed within a group container will be the one that has not been target of any connection. Because of this, it’s important that only one step inside a group container isn’t target of a connection.
 
-![Alt text](https://maximiranda.github.io/slingrDoc/images/vendor/flows/add_to_group_container.gif)
+![Alt text](/images/vendor/flows/add_to_group_container.gif)
 
 
 {{< notes type="tip">}}

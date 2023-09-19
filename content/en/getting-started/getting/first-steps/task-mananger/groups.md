@@ -39,13 +39,13 @@ Now let’s add the two new groups:
 5. Now we need to add permissions to access entities and views. Click on the node `Security > Groups > Manager > Entity permissions`.
 6. Select the `Task` entity and then click on `Apply permissions`:
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/groups/p.png)
+![Alt Text](/images/vendor/task-mananger/groups/p.png)
 
 
 7. There select the option `Read/write` and click on `Apply`.
 8. Then click on the configuration button under the `Edit` column, and configure fields permissions so fields `Status` and `Rank` are read-only.
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/groups/pp.png)
+![Alt Text](/images/vendor/task-mananger/groups/pp.png)
 
 {{< callout type="warning" contend="" >}}
   This is the correct way to enforce permissions instead of just making the field read-only in the UI.
@@ -56,7 +56,7 @@ Now let’s add the two new groups:
 
 12. Set the flag in the column `Permission` for both views:
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/groups/ppp.png)
+![Alt Text](/images/vendor/task-mananger/groups/ppp.png)
 
 13. Finally, click the `Apply` button on the top-right of the listing to persist changes.
 
@@ -67,16 +67,16 @@ Now that we have our first group, create a new group called Support, and add som
 2. In the `Tasks` entity, click on the configuration button under the `Edit` column.
 3. Configure entity permissions like this:
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/groups/pppp.png)
+![Alt Text](/images/vendor/task-mananger/groups/pppp.png)
 
 4. Configure field permissions like this:
 
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/groups/ppppp.png)
+![Alt Text](/images/vendor/task-mananger/groups/ppppp.png)
 
 5. Configure action permissions like this:
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/groups/pppppp.png)
+![Alt Text](/images/vendor/task-mananger/groups/pppppp.png)
 
 6. Click on `Apply`.
 7. Now, select the `System > Users` entity, click on `Apply permissions`, and select `Read-Only`.

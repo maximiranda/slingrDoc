@@ -19,7 +19,7 @@ First, open the developer portal and click on the runtime button (the square ico
 Great job! With a small step, we've successfully added a new field to our events. In the next section, we'll create some actions to change the status of an event without having to enter the edit view.
 
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/firstlook/ww_event_planner_readonly_no_delete.png)
+![Alt Text](/images/vendor/event-planner/firstlook/ww_event_planner_readonly_no_delete.png)
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/firstlook/ww_event_planner_status_field.png)
+![Alt Text](/images/vendor/event-planner/firstlook/ww_event_planner_status_field.png)
  

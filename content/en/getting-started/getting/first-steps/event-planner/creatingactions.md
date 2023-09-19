@@ -28,11 +28,11 @@ To begin, let’s create an action to cancel events using a feature called Flows
    - Actions type: Flow
    - Click on Open Editor.
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/creating-actions/ww_event_planner_cancel_event_action.png)
+![Alt Text](/images/vendor/event-planner/creating-actions/ww_event_planner_cancel_event_action.png)
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/creating-actions/ww_event_planner_cancel_event_action_2.png)
+![Alt Text](/images/vendor/event-planner/creating-actions/ww_event_planner_cancel_event_action_2.png)
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/creating-actions/ww_event_planner_flow_editor.png)
+![Alt Text](/images/vendor/event-planner/creating-actions/ww_event_planner_flow_editor.png)
 
 3. The flow designer will open. The squares on the left are called steps and each step has different functionality that can be connected to build a flow. Use the flow designer to change the status of the record by following these steps:
    - Create an Update Record step and connect it with the start step.
@@ -42,9 +42,9 @@ To begin, let’s create an action to cancel events using a feature called Flows
        - Store Changes: true
    - Create an End step and connect it with the Update Record step.
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/creating-actions/ww_event_planner_update_record_step.png)
+![Alt Text](/images/vendor/event-planner/creating-actions/ww_event_planner_update_record_step.png)
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/creating-actions/cc.png)
+![Alt Text](/images/vendor/event-planner/creating-actions/cc.png)
 
 4. Click on Create.
 
@@ -67,9 +67,9 @@ Next, we will create another action to pass an event from Active to Done using t
       sys.data.save(record);
       ```
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/creating-actions/ccc.png)
+![Alt Text](/images/vendor/event-planner/creating-actions/ccc.png)
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/creating-actions/cccc.png)
+![Alt Text](/images/vendor/event-planner/creating-actions/cccc.png)
 
 3. Click on Create.
 

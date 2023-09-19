@@ -22,7 +22,7 @@ Shortcuts available in the flow designer:
 
 It is possible to select several steps or a full flow at once by pressing the above shortcut. This is a useful to relocate fast the flow or a portion of it as you can see in the below image:
 
-![](https://maximiranda.github.io/slingrDoc/images/vendor/flows/multiselect.gif)
+![](/images/vendor/flows/multiselect.gif)
 
 {{< notes type="tip">}}
 To exit multi-selection mode, press the **Escape** key.

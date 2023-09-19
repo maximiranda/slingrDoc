@@ -13,29 +13,29 @@ toc: true
 ---
 
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/first-changes/ww_event_planner_open_builder.png)
+![Alt Text](/images/vendor/event-planner/first-changes/ww_event_planner_open_builder.png)
 
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/1.gif)
+![Alt Text](/images/vendor/1.gif)
 
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/first-changes/ww_event_planner_builder_nodes.png)
+![Alt Text](/images/vendor/event-planner/first-changes/ww_event_planner_builder_nodes.png)
 
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/first-changes/ww_event_planner_builder_nodes_arrow.png)
-
-
-
+![Alt Text](/images/vendor/event-planner/first-changes/ww_event_planner_builder_nodes_arrow.png)
 
 
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/first-changes/ww_event_planner_status_form.png)
 
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/first-changes/ww_event_planner_status_default_value.png)
+
+![Alt Text](/images/vendor/event-planner/first-changes/ww_event_planner_status_form.png)
 
 
-![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/event-planner/first-changes/ww_event_planner_push_changes.png)
+![Alt Text](/images/vendor/event-planner/first-changes/ww_event_planner_status_default_value.png)
+
+
+![Alt Text](/images/vendor/event-planner/first-changes/ww_event_planner_push_changes.png)
 
 
 In this section, we will learn how to add a new field to the Events entity in the Slingr Event Planner app. This will allow us to improve the metrics of the events in the app.

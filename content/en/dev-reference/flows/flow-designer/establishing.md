@@ -25,20 +25,20 @@ There are four types of connection's endpoints:
 
 - **Green** connection's endpoints: located in the right or some time bottom side of all steps (except for the “end” step). Dragging a connection from one of those and dropping it in a target step will connect them as a **normal connection**.
 
-![Alt text](https://maximiranda.github.io/slingrDoc/images/vendor/flows/regular_connection.gif)
+![Alt text](/images/vendor/flows/regular_connection.gif)
 
 - **Red** connection's endpoints: located on the bottom side of some steps. Dragging a connection from one of those and dropping it in a target step will connect them as an **error connection**.
 
 
-![Alt text](https://maximiranda.github.io/slingrDoc/images/vendor/flows/error_connection.gif)
+![Alt text](/images/vendor/flows/error_connection.gif)
 
 - **Else** connection's endpoints: located on the bottom side of `Condition` type steps. Dragging a connection from one of those and dropping it in a target step will connect them as an **else connection**.
 
-![Alt text](https://maximiranda.github.io/slingrDoc/images/vendor/flows/else_connection.gif)
+![Alt text](/images/vendor/flows/else_connection.gif)
 
 - **Target** connection's endpoints: located on the left side of group containers steps. **Dropping** a connection **to** one of those will connect them. Connection could be regular, error, or else  depending on the **source connection endpoint**
 
-![Alt text](https://maximiranda.github.io/slingrDoc/images/vendor/flows/target_connection.gif)
+![Alt text](/images/vendor/flows/target_connection.gif)
 
 {{< notes type="note">}}
 Connection targets, such as regular steps or target connection's endpoints will display a dashed outline border when a connection is being dragged on top of them.
@@ -47,7 +47,7 @@ Connection targets, such as regular steps or target connection's endpoints will 
 ### Deleting a connection
 in order to delete a connection, you just need to press click on the connector and a delete button will appear. By pressing click on that button, the connection will be deleted.
 
-![Alt text](https://maximiranda.github.io/slingrDoc/images/vendor/flows/deleting_connection.gif)
+![Alt text](/images/vendor/flows/deleting_connection.gif)
 
 
 
