@@ -115,7 +115,7 @@ Source:
     index.add(
       {
         id: {{ $index }},
-        href: "{{ .Permalink }}",
+        href: "{{ .AbsPermalink }}",
         title: {{ .Title | jsonify }},
         {{ with .Description -}}
           description: {{ . | jsonify }},
