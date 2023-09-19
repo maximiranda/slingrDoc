@@ -12,7 +12,7 @@ menu:
 weight: 1
 toc: true
 ---
-![hola](where-to.png esto que es?)
+![hola](where-to.png "esto que es?")
 
 Welcome to Slingr! On this page, we will guide you through the process of getting started with our platform.
 
