@@ -14,7 +14,7 @@ toc: true
 
 Hello, welcome to the builder! Here, we will be creating an app. On the left-hand side, you can see a tree with several nodes. Let's begin building something amazing!
 
-![Alt Text](/images/vendor/task-mananger/first-steps/task_manager_builder_node.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/first-steps/task_manager_builder_node.png)
 
 
 To create a new entity, follow these steps:
@@ -34,7 +34,7 @@ To create a new entity, follow these steps:
 
 If everything is correct, the form should look similar to the image provided. Click on "Create" to finish the process.
 
-![Alt Text](/images/vendor/task-mananger/first-steps/task_manager_creating_entity.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/first-steps/task_manager_creating_entity.png)
 
 
 Great! Now, let's create some additional fields for the entity. To do this, please right-click on the node Model > Entities > Tasks > Fields, and select New Field.
@@ -92,7 +92,7 @@ This is the status of the task. Possible values will be <code >To do</code>, <co
 
 Depending on the type of field, you may see additional options during creation. For example, when creating the Status field, you will need to add the four possible statuses: To do, In progress, Done, and Archived. The field creation should look similar to this:
 
-![Alt Text](/images/vendor/task-mananger/first-steps/2.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/first-steps/2.png)
 
 Clicking on `Save and edit` will create the field and will open the details view for that field, where you will be able to change other settings, like the default value and required flag. You can also open it by clicking the field node in the tree. In our sample app we need to take care of the following things for these fields:
 - `Title`: the setting `Required` should be `Always`.
@@ -100,7 +100,7 @@ Clicking on `Save and edit` will create the field and will open the details view
 
 Make sure to save all changes. Your final structure should look similar to this:
 
-![Alt Text](/images/vendor/task-mananger/first-steps/3.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/first-steps/3.png)
 
 
 
@@ -115,7 +115,7 @@ Now that we have created the fields for the entity, the next step is to create a
 3. Click on `Create`.
 
  
-![Alt Text](/images/vendor/task-mananger/first-steps/4.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/first-steps/4.png)
 
 Once we have the view, we need to add it to the sidebar of our app so that users can navigate to it easily.
  Click the node `User interface > Navigation > Main menu` and follow these steps:
@@ -123,7 +123,7 @@ Once we have the view, we need to add it to the sidebar of our app so that users
 2. Select the view All Tasks and enter the label All Tasks. You can also add an icon if you want.
 3. Click on `Create`.
  
-![Alt Text](/images/vendor/task-mananger/first-steps/5.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/first-steps/5.png)
 
 
 Great! We now have a basic app configured. Let's see how it looks in the runtime. But first, we need to push the changes so that the runtime has the latest version of our app.

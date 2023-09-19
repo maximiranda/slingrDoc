@@ -23,7 +23,7 @@ Once you're logged into the developer portal, follow these steps:
 Once your app is created, you'll see its details. By default, you'll be the owner of the app with developer permissions for the development environment, which is created by default.
 
 
-![Alt Text](/images/vendor/task-mananger/creating/task_manager_app_details.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/creating/task_manager_app_details.png)
 
 
 In the environment details, you can navigate through the different components of your app:
@@ -33,7 +33,7 @@ In the environment details, you can navigate through the different components of
 - Builder: This is where you'll develop your app.
 You can also see the different environments and components on the Apps Page.
 
-![Alt Text](/images/vendor/task-mananger/creating/task_manager_apps_page.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/creating/task_manager_apps_page.png)
 
 The first button is the Runtime, the second the monitor, and the third one the builder. 
 As our new app is empty, the first thing we need to do is to go to the app builder, by clicking on the builder button (the one with the wrench). That will automatically open the builder in a new tab.

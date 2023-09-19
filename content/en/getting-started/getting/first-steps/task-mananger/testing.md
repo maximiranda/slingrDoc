@@ -15,11 +15,11 @@ In this section, we will learn how to use the actions we implemented in the prev
 
 
 
-![Alt Text](/images/vendor/task-mananger/testing-actions/t.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/testing-actions/t.png)
 
-![Alt Text](/images/vendor/task-mananger/testing-actions/tt.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/testing-actions/tt.png)
 
-![Alt Text](/images/vendor/task-mananger/testing-actions/ttt.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/testing-actions/ttt.png)
 
 To test the actions, make sure to check that the preconditions are working as expected. Also, verify that the status cannot be changed in the edit view.
 

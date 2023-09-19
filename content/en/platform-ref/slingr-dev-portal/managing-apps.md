@@ -25,8 +25,8 @@ setup billing, see invoices, etc.
 
 To create a new app just click the `Create app from scratch` button in the `Home` section of Slingr.
 /images/vendor/platform-ref/managing-apps/
-![Create new app from Home](/images/vendor/platform-ref/managing-apps/home_create_new_app.png)
-![Create new app from Apps](/images/vendor/platform-ref/managing-apps/apps_create_new_app.png)-->
+![Create new app from Home](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/home_create_new_app.png)
+![Create new app from Apps](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/apps_create_new_app.png)-->
 
 <!--{% include note.html content="You can also create new apps from **Apps** section by clicking the **Create App** button" %}-->
 {{< notes type="note">}}
@@ -58,7 +58,7 @@ You won't be able to change the <b>name</b> of your app later.
   available templates. Here you will find global templates created by other people or you can
   also create your own templates. See [App templates](#app-templates) for more information.
 
-  ![Choose template](/images/vendor/platform-ref/managing-apps/create_app_templates.png)
+  ![Choose template](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/create_app_templates.png)
 
   When you select a template, you might decide to make it linked by setting the flag `Linked`, which
   is only available if you select `Slingr Pro` as the plan. If this flag is set, the new app will be 
@@ -90,7 +90,7 @@ Once an app is created, you should be able to see :
   if the app is a template, it will be used as the description of the template.
 - `App logos`: these are the logo, favicon and background of the app. It will be used in different places like the `Developer portal`, in your app header, in the browser's title, etc. We suggest you to use a transparent background, but you are free to choose any.
 
-![App logos](/images/vendor/platform-ref/managing-apps/app_details_logos.png)
+![App logos](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/app_details_logos.png)
 
 For any of these changes, as soon as you make them, will be applied.
 
@@ -110,7 +110,7 @@ you need them.
 
 Then each app environment has the following settings:
 
-![App environment details](/images/vendor/platform-ref/managing-apps/app_environment_details_1.png)
+![App environment details](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/app_environment_details_1.png)
 
 - `Status`: indicates in which status the environment is. If the value is different than `Deployed`
   it could be that some maintenance work is going on (for example the platform is being upgraded) or
@@ -133,7 +133,7 @@ Then each app environment has the following settings:
   - `Large (4GB)`: this is for big apps, which when there are many entities, views, listeners,
     endpoints, etc.
 
-![App environment details](/images/vendor/platform-ref/managing-apps/app_environment_details_2.png)
+![App environment details](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/app_environment_details_2.png)
 
 - `Database`: just adding more instances might not work to scale your app as there is a point where
   the database will be the bottleneck. When your reach that point (usually we try to size database
@@ -191,8 +191,8 @@ you can add permissions to other developers to work in your app or give them adm
 
 ### Developers
 
-![App developers](/images/vendor/platform-ref/managing-apps/app_settings_developers.png) -->
-![App developers](/images/vendor/platform-ref/managing-apps/app_settings_add_developer.png)
+![App developers](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/app_settings_developers.png) -->
+![App developers](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/app_settings_add_developer.png)
 
 In the `Developers` section of the app details you can add more developers by entering
 the email associated to their developer accounts. Once you add a developer you can choose which
@@ -216,8 +216,8 @@ the user menu of the app runtime.
 
 ### Admins
 
-![App admins](/images/vendor/platform-ref/managing-apps/app_settings_admins.png)-->
-![App admins](/images/vendor/platform-ref/managing-apps/app_settings_add_admin.png)
+![App admins](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/app_settings_admins.png)-->
+![App admins](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/app_settings_add_admin.png)
 
 <!--{% include note.html content="" %}-->
 {{< notes type="note">}}
@@ -249,8 +249,8 @@ keeping your app. Later, if you need it again, you can wake it up and keep using
 
 This can be done by clicking the buttons `Sleep app` and `Wake up`.
 
-![Sleep app](/images/vendor/platform-ref/managing-apps/sleep_app.png)
-![Wake up app](/images/vendor/platform-ref/managing-apps/wakeup_app.png)
+![Sleep app](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/sleep_app.png)
+![Wake up app](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/wakeup_app.png)
 
 <!--{% include note.html content="" %}-->
 {{< notes type="note">}}
@@ -259,7 +259,7 @@ This can only be done by the app owner.
 
 ## Add production environment
 
-![Add prod environment](/images/vendor/platform-ref/managing-apps/app_add_production_env.png)
+![Add prod environment](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/app_add_production_env.png)
 
 When an app is created by default it only has a `Development` environment. We recommend to keep only
 the development environment until you see the need for a `Production` environment. When that happens
@@ -274,7 +274,7 @@ permissions, even if they already had permissions for the development environmen
 
 ## Add staging environment
 
-![Add staging environment](/images/vendor/platform-ref/managing-apps/app_add_staging_env.png)
+![Add staging environment](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/app_add_staging_env.png)
 
 Once you have a development and a production environment, you might see the need for an additional
 environment to work as a buffer between development and production. This is the `Staging` environment
@@ -289,7 +289,7 @@ If you created the app from a template with the `Linked` flag, the app will only
 environment and you won't be able to make changes. Instead changes are done in the template app and
 synced to the clones.
 
-![Unlink app](/images/vendor/platform-ref/managing-apps/unlink_app.png)
+![Unlink app](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/unlink_app.png)
 
 If at some point you need to make changes in the app, you will need to unlink the app first. You can
 do that by clicking on the button `Unlink` in the details of the app. When the app is unlinked a
@@ -305,7 +305,7 @@ You won't be able to link it again to the template, the apps will become indepen
 There are cases where you need to make some changes to a linked app, but you don't want to unlink
 it because you still want to get updates from the master app.
 
-![Add development environment](/images/vendor/platform-ref/managing-apps/add_development_env.png)
+![Add development environment](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/add_development_env.png)
 
 In these cases what you can do is add a development environment by clicking in `Add development environment`.
 When you do this, how changes are synced will be changed. Please check the section
@@ -316,7 +316,7 @@ When you do this, how changes are synced will be changed. Please check the secti
 If you don't need an app any longer, you can delete the app. This will remove all instances as well
 as the database, which means all data will be lost.
 
-![Delete app](/images/vendor/platform-ref/managing-apps/delete_app.png)
+![Delete app](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/delete_app.png)
 
 <!--{% include warning.html content="" %}-->
 {{< notes type="warning">}}
@@ -329,7 +329,7 @@ This can only be done by the app owner.
 {{< /notes >}}
 ## App templates
 
-![Make app a template](/images/vendor/platform-ref/managing-apps/app_make_a_template.png)
+![Make app a template](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/app_make_a_template.png)
 
 If you want to make an app a template, you can do it so by setting the flag `Make this app a template`.
 When this option is enabled your app will show up in the list of templates when creating new apps (only inside your
@@ -337,7 +337,7 @@ account).
 
 ## Cloning apps
 
-![Clone app](/images/vendor/platform-ref/managing-apps/clone_app.png)
+![Clone app](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/managing-apps/clone_app.png)
 
 You can create a clone of your app by clicking the `Clone app` button. This will create a new app using the
 same plan as the current app with the selected environment. Keep in mind that data will also be copied (up

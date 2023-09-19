@@ -29,7 +29,7 @@ You can collapse this panel with the **<<** icon on its top side to increase the
 Hovering over a step will give you a short description of what it does
 {{< /notes >}}
 
-![Alt text](/images/vendor/flows/dropping_from_palette.gif)
+![Alt text](https://maximiranda.github.io/slingrDoc/images/vendor/flows/dropping_from_palette.gif)
 
 ## The canvas
 
@@ -67,7 +67,7 @@ If the properties' panel is collapsed, you can **double click** on any step with
 {{< /notes >}}
 
 
-![Alt text](/images/vendor/flows/properties_panel.gif)
+![Alt text](https://maximiranda.github.io/slingrDoc/images/vendor/flows/properties_panel.gif)
 
 ## The Header
 

@@ -24,7 +24,7 @@ Let's create a new action:
   - `Name`: startWork.
 3. In Preconditions, indicate in which cases the action can be executed. For the action startWork, the precondition is that the field Status must be To do. To set up this expression, select the option Expression for Preconditions. Then, click on Add new rule and configure it like this:
 
-![Alt Text](/images/vendor/task-mananger/adding-actions/a.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/adding-actions/a.png)
 
 4.In the Action script field, add the following script to the body of the function:
 
@@ -49,7 +49,7 @@ To enforce the workflow we just created, we need to prevent people from changing
 4. Save changes by clicking on `Apply`.
 
 
-![Alt Text](/images/vendor/task-mananger/adding-actions/aa.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/adding-actions/aa.png)
 <br>
 <br>
 <table class="table">
@@ -112,7 +112,7 @@ In the next step, we will add a column to the grid view that displays the availa
 3. Save changes by clicking on `Apply`.
 
 
-![Alt Text](/images/vendor/task-mananger/adding-actions/aaa.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/adding-actions/aaa.png)
 
 
 Once you have completed these steps, you can push the changes by clicking on the icon next to your username (the hamburger icon) and selecting "Push changes" from the dropdown menu.

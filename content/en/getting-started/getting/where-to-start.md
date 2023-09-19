@@ -12,7 +12,7 @@ menu:
 weight: 1
 toc: true
 ---
-![hola](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/platform-concepts.png "esto que es?")
+![hola](https://maximiranda.github.io/slingrDoc/images/vendor/where-to.png)
 
 Welcome to Slingr! On this page, we will guide you through the process of getting started with our platform.
 

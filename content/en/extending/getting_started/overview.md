@@ -20,7 +20,7 @@ However the most common usage for endpoints is to connect to other apps, special
 That's what you'll find in our official endpoints registry, where there are endpoints to easily
 integrate your apps with services like Slack, Google Calendar or SparkPost.
 
-![Endpoints overview](/images/vendor/extending/endpoints-overview.png)
+![Endpoints overview](https://maximiranda.github.io/slingrDoc/images/vendor/extending/endpoints-overview.png)
 
 As shown in the diagram above apps can use the API provided by the endpoint to send messages to
 the other app. For example, it could be a method to get available calendars in an external calendar

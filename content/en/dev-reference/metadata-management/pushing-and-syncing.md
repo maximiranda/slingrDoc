@@ -31,7 +31,7 @@ to push them to the app runtime, where they will be applied. For example if you 
 builder you won't see it in the app right after saving it. First you need to push changes and once
 that's done, the new field will show up in the app runtime of the development environment.
 
-![Push changes](/images/vendor/platform-ref/push-changes.png)
+![Push changes](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/push-changes.png)
 
 You can push changes from the app builder, using the action `Push changes` in the secondary menu
 (there is also a shortcut with `Ctrl + P`). When you push changes you will see a summary of changes
@@ -56,7 +56,7 @@ Finally it is important to know what happens when you push changes:
 If you have a production environment in your app, once all your changes have been tested on the
 development environment, you can sync those changes from dev to prod.
 
-![Sync changes](/images/vendor/platform-ref/sync-changes.png)
+![Sync changes](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/sync-changes.png)
 
 You can sync changes from the app builder, using the action `Sync changes to prod` in the secondary 
 menu. When you sync changes you will see a summary of changes that have been done and will be moved
@@ -140,7 +140,7 @@ realize when you are working on prod or dev.
 Here is where environment settings come into play. These settings can be changed per environment
 and, together with the metadata, will dictate how you app will be executed. 
 
-![App metadata and environments](/images/vendor/platform-ref/metadata-to-environments.png)
+![App metadata and environments](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/metadata-to-environments.png)
 
 In the production environment you are able to change environment settings in the app monitor, while
 in the development or staging environment those settings can be changed from the app builder.

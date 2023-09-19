@@ -14,7 +14,7 @@ toc: true
 
 We now have an app with some excellent features running. However, you might want to have a view with another design for a specific use case. We can make our app look fancier by adding a workflow view. To give you an idea of what I mean, check out the image below:
 
-![Alt Text](/images/vendor/task-mananger/creating-wf/w.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/creating-wf/w.png)
 
 Isn't it awesome? Let's create the workflow view:
 
@@ -45,7 +45,7 @@ Now let's define the columns. But before doing that, we need to add a new field 
 5. Set the option `Visible` to `Never`. This is to hide this field as we don’t want to show it to our users. We will only use it internally to keep the rank of tasks.
 6. Click on `Save` to save changes.
 
-![Alt Text](/images/vendor/task-mananger/creating-wf/ww.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/creating-wf/ww.png)
 
 Now we are ready to create the columns in the workflow view:
 
@@ -66,7 +66,7 @@ Repeat the same process to create these two additional columns:
 
 <br>
 
-![Alt Text](/images/vendor/task-mananger/creating-wf/www.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/task-mananger/creating-wf/www.png)
 
 
 1. Once you have the columns we need to define the transitions that will allow moving a card from one column to another:

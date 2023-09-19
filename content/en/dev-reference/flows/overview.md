@@ -84,6 +84,6 @@ Each step has a different function, it can have input parameters and generate ou
 
 The steps can be connected to each other by connecting from the green rectangle of the source step to the destination step. Some steps have a red square that indicates the flow to follow in case an error occurs when executing the step.
 
-![](/images/vendor/flows/quickstart_sample.png)
+![](https://maximiranda.github.io/slingrDoc/images/vendor/flows/quickstart_sample.png)
 
 _The flow begins with the start step, then the find data step searches all the companies, for each of the companies found in the previous step, the update record step updates that company and the corresponding log step is executed whether it was successful or not. Finally the flow ends with the step end._

@@ -12,7 +12,7 @@ toc: true
 weight: 1
 ---
 
-![Alt Text](/images/vendor/platform-ref/platform-concepts.png)
+![Alt Text](https://maximiranda.github.io/slingrDoc/images/vendor/platform-ref/platform-concepts.png)
 
 To work with Slingr you will need a developer account. You can create one [developer account here](https://developer-portal.slingrs.io/signup.html). To manage your apps and start building something great, you have to log in to the [Developer Portal](https://developer-portal.slingrs.io/login.html). Here developers can manage their apps, organizations, endpoints, and account billing settings.
 

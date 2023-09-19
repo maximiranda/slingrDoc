@@ -31,6 +31,6 @@ Each item in the context stack has its own scope. Context items are only availab
 
 ## Example
 
-![Context stack example](/images/vendor/flows/context_stack_example.png)
+![Context stack example](https://maximiranda.github.io/slingrDoc/images/vendor/flows/context_stack_example.png)
 *In the updateRecord step, inside a tryCatch step, it is not possible to access the output of findData because it is not in the execution flow of findData. However, it can access the output of the super step: tryCatchError.*
 
