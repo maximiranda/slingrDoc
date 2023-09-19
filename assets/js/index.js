@@ -115,7 +115,7 @@ Source:
     index.add(
       {
         id: {{ $index }},
-        href: "https://maximiranda.github.io/slingrDoc/{{ .RelPermalink }}" ,
+        href: "https://maximiranda.github.io/slingrDoc{{ .RelPermalink }}" ,
         title: {{ .Title | jsonify }},
         {{ with .Description -}}
           description: {{ . | jsonify }},
